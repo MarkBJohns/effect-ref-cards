@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.Deck-container > img {
+  aspect-ratio: 1, 1.5;
+  width: 125px;
+  margin: 10px;
+}
